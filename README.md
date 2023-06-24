@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Web Developer
 ---------------------
 
-A 16 year old who loves logic and coding. Not having an artistic soul makes me a Web Backend Developer.
+A 17 year old who loves logic and coding. Not having an artistic soul makes me a Web Backend Developer.
 
 * 🌍  I'm based in Tangerang, Indonesia
 * ✉️  You can contact me at [adamakmal789@gmail.com](mailto:adamakmal789@gmail.com)
-* 🧠  I'm learning NodeJs
+* 🧠  I'm learning React and Go
 * 🤝  I'm open to collaborating on Web Application (REST Api)
 
 ### Skills
