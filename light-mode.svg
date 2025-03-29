@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="610px" height="330px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="610px" height="330px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f">
+<tspan x="15" y="30">ItsMalma@github</tspan> -————————————————————————————————————————-—-
+<tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Ubuntu 24.04.2 x86_64</tspan>
+<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">82VF IdeaPad 1 14AMN7</tspan>
+<tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">6.11.0-21-generic</tspan>
+<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode 1.96.0</tspan>
+<tspan x="15" y="130" class="cc">. </tspan>
+<tspan x="15" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Go, C#, TypeScript, C, C++</tspan>
+<tspan x="15" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, TOML</tspan>
+<tspan x="15" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Indonesia, English, Spanish, Germany</tspan>
+<tspan x="15" y="230">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="15" y="250" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">adamakmal789@gmail.com</tspan>
+<tspan x="15" y="270" class="cc">. </tspan><tspan class="key">WhatsApp</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">(+62)852-1860-6125</tspan>
+<tspan x="15" y="290" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">malma28</tspan>
+<tspan x="15" y="310" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">malma.tsx</tspan>
+</text>
+</svg>
