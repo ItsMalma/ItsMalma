@@ -10,5 +10,5 @@
 <img
   align="right"
   src="https://raw.githubusercontent.com/ItsMalma/ItsMalma/main/light-mode.svg"
-  width="65%"
+  width="67%"
 />
