@@ -21,7 +21,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Ubuntu 24.04.2 x86_64</tspan>
 <tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">82VF IdeaPad 1 14AMN7</tspan>
 <tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">6.11.0-21-generic</tspan>
-<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode 1.96.0</tspan>
+<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">VSCode 1.96.0</tspan>
 <tspan x="15" y="130" class="cc">. </tspan>
 <tspan x="15" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Go, C#, TypeScript, C, C++</tspan>
 <tspan x="15" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, TOML</tspan>
